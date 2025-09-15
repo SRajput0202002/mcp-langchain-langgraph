@@ -1,20 +1,5 @@
-# Environment variables
 .env
-.env.local
-
-# Python virtual environments
-.venv/
 venv/
-env/
-
-# Python cache
-__pycache__/
-*.py[cod]
-
-# Lock files
-uv.lock
-
-# OS / editor files
-.DS_Store
-.vscode/
-.idea/
+chroma_data/
+chroma_mmr_demo/
+chroma_store/
